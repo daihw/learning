@@ -1,5 +1,5 @@
 # CS 顶刊和顶会
-[Computer Science Rankings (beta)]（http://csrankings.org/）  
+[Computer Science Rankings (beta)](http://csrankings.org/)  
 Artificial intelligence AAAI,  
 IJCAIComputer vision CVPR, ECCV,  
 ICCVMachine learning & data mining ICML, KDD,  
